@@ -214,7 +214,7 @@ $(function(){
 		}
 	})
 	$('.back').click(function(){
-		window.location.href = 'index.html'
+		window.location.href = 'home.html'
 	})
 
 //加入购物车判断是否登录

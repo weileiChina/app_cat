@@ -163,7 +163,7 @@ $("#left_nav .down .first").click(function(){
 
 	/*=================bottom点击事件================*/
 	$(".bottom div").eq(0).on("click",function(){
-		window.location.href = "index.html"
+		window.location.href = "home.html"
 	})
 	$(".bottom div").eq(1).on("click",function(){
 		window.location.href = "hot.html"

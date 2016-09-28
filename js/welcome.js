@@ -10,6 +10,6 @@ $(function(){
 	},2000)
 	
 	$('.reg').click(function(){
-		window.location.href = 'index.html'
+		window.location.href = 'home.html'
 	})
 })

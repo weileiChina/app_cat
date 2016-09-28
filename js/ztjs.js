@@ -194,13 +194,13 @@ $(function(){
 
 
    $(".bottom div").eq(0).on("click",function(){
-		window.location.href = "index.html"
+		window.location.href = "home.html"
 	})
 	$(".bottom div").eq(1).on("click",function(){
 		window.location.href = "hot.html"
 	})
 	$(".bottom div").eq(2).on("click",function(){
-		window.location.href = "index.html"
+		window.location.href = "zt.html"
 	})
 	$(".bottom div").eq(3).on("click",function(){
 		window.location.href = "mypage.html"
