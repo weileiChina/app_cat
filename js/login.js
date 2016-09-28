@@ -7,7 +7,7 @@ $("#login_form input").on("keyup",function(){
 		$("#login_form .btn").css({"background":"red","color":"#fff"})
 		$("#login_form .btn").on("click",function(){
 			localStorage.setItem("user",localStorage.getItem("phone_num"))
-			window.location.href ="../index.html"
+			window.location.href ="../home.html"
 		})
 	}else{
 		$("#login_form .btn").css({"background":"#e0e0e1","color":"#999"})
